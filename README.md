@@ -8,15 +8,13 @@
 
 
 
-An instantly ready, full-featured online IDE for web development on any device
-with a browser. Enabling you to start new projects quickly and prototype
-rapidly. With CodeSandbox, you can create web apps, experiment with code, test
-ideas, and share creations easily.
+
 
 ## Other CodeSandbox repositories
 
-CodeSandbox consists of several separate servers, some of which are open
-sourced.
+Emanuel Rojas Benavides
+An instantly ready, full-featured online IDE for web development on any device
+Me gusta programar y jugar videojuegos
 
 - Client: the web application
 - Server: the [Phoenix](https://github.com/phoenixframework/phoenix) API server
