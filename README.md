@@ -13,8 +13,7 @@
 ## Emanuel Rojas Benavides
 
 
-An instantly ready, full-featured online IDE for web development on any device
-Me gusta programar y jugar videojuegos
+Me gusta el valo
 
 - Client: the web application
 - Server: the [Phoenix](https://github.com/phoenixframework/phoenix) API server
