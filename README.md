@@ -13,7 +13,7 @@
 ## Emanuel Rojas Benavides
 
 
-Me gusta el valo
+Me gusta el valo 
 
 - Client: the web application
 - Server: the [Phoenix](https://github.com/phoenixframework/phoenix) API server
