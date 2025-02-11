@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://codesandbox.io">
-    <img src="https://areajugones.sport.es/wp-content/uploads/2020/04/Valorant-imagen-4.jgp">
+    <img src="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/04/07/15862421610874.jpg" height="300px">
   </a>
 </p>
 
