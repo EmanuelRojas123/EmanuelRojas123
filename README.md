@@ -29,7 +29,7 @@ sourced.
 ## Documentation
 
 You can find our documentation on our
-[website]([https://codesandbox.io/docs/learn/introduction/overview](https://emanuelrojas123.github.io/EmanuelRojas123/))
+[website]([https://codesandbox.io/docs/learn/introduction/overview](https://emanuelrojas123.github.io/EmanuelRojas123/)
 
 ## Contributors ✨
 
