@@ -10,9 +10,9 @@
 
 
 
-## Other CodeSandbox repositories
+## Emanuel Rojas Benavides
 
-Emanuel Rojas Benavides
+
 An instantly ready, full-featured online IDE for web development on any device
 Me gusta programar y jugar videojuegos
 
